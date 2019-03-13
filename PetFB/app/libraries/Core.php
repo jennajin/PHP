@@ -1,17 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: mazmac
- * Date: 12/12/17
- * Time: 22:32
- */
-
-/*
- *  Name : Core Class
- *  Creates url and loads core controller
- *  Format :  /controller/method/params - e.g : /post/add/1
- */
-
 class Core
 {
     /* when there's not any specific controller in url,

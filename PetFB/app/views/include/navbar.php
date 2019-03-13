@@ -2,7 +2,6 @@
    <div class="container ml-3">
     <a class="navbar-brand font-weight-bold text-dark" href="<?php echo URL_ROOT;?>"><?php echo SITE_NAME;?></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-        <!-- <span class="navbar-toggler-icon fa fa-bars text-dark"></span> -->
         <i class="fa fa-bars fa-lg py-1 text-dark"></i>
     </button>
 

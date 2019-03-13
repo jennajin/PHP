@@ -2,12 +2,15 @@
 
 ## Overview
 
-- Users can add, edit, and delete pet's information.
-- Users can search a pet based on age, gender, marital status, area, color, and breed.
-- Users can change pet's marital status.
-- Admin can add, edit, and delete all options.
-- Admin can manage the user or pet information.
-- Admin can search a user or pet.
+### User
+- can add, edit, and delete pet's information.
+- can search a pet based on age, gender, marital status, area, color, and breed.
+- can change pet's marital status.
+
+### Admin
+- can add, edit, and delete all options.
+- can manage the user or pet information.
+- can search a user or a pet.
 
 ## Pages
 

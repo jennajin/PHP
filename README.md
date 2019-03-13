@@ -5,7 +5,7 @@
 `PHP` `MySQL` `CSS` `BootStrap`
 
 Developed pet dating Website using MVC architecture pattern in PHP.
-It allows owners to find a boyfriend or girlfriend for their cat. When two cats become lovers, their marital statuses are changed from “single” to “in relation”, and the owners can see the ceremony page with a photo gallery.
+It allows owners to find a boyfriend or girlfriend for their pet. When two pets become lovers, their marital statuses are changed from “single” to “in relation”, and the owners can see the ceremony page with a photo gallery.
 
 _Date of creation: Jan. 2018_
 
